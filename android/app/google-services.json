@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "741696463066",
+    "firebase_url": "https://brillo-7c690-default-rtdb.firebaseio.com",
+    "project_id": "brillo-7c690",
+    "storage_bucket": "brillo-7c690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741696463066:android:1e0d7acbee2d24292045e3",
+        "android_client_info": {
+          "package_name": "com.brillohn.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIJ6MKUSX2ge3ZkRV7YrbdzRiwgv8p-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741696463066:android:081019f074f907cc2045e3",
+        "android_client_info": {
+          "package_name": "com.example.brillohn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIJ6MKUSX2ge3ZkRV7YrbdzRiwgv8p-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

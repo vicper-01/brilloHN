@@ -1,0 +1,402 @@
+{
+  "Pregunta 1": [
+    {
+      "1": "Aire acondicionado",
+      "2": "Televisor",
+      "3": "Refrigeradora",
+      "4": "Ventilador",
+      "Pregunta": "¿Qué aparato consume más energía si se deja encendido todo el día?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 2": [
+    {
+      "1": "Apagar las luces al salir de una habitación",
+      "2": "Dejar las luces encendidas todo el día",
+      "3": "Usar bombillas incandescentes",
+      "4": "Dejar la luz del televisor encendida mientras usas el teléfono",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 3": [
+    {
+      "1": "Usar bombillas LED",
+      "2": "Dejar el cargador del teléfono conectado todo el día",
+      "3": "Mantener el televisor encendido aunque no lo estés viendo",
+      "4": "Usar el aire acondicionado con las ventanas abiertas",
+      "Pregunta": "¿Cuál de estas prácticas es eficiente en el uso de energía?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 4": [
+    {
+      "1": "Desenchufar el cargador cuando no lo estás usando",
+      "2": "Dejar el cargador conectado todo el tiempo",
+      "3": "Cargar el teléfono toda la noche",
+      "4": "Usar el cargador de otra persona para cargar tu teléfono",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de cargadores de celular?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 5": [
+    {
+      "1": "Dejar el televisor encendido mientras usas el teléfono",
+      "2": "Apagar el televisor cuando no lo estás viendo",
+      "3": "Ver televisión mientras usas la computadora",
+      "4": "Dejar la televisión encendida mientras sales de la habitación",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de un televisor?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 6": [
+    {
+      "1": "Usar bombillas incandescentes",
+      "2": "Usar bombillas fluorescentes",
+      "3": "Usar bombillas LED",
+      "4": "Usar lámparas sin pantalla",
+      "Pregunta": "¿Qué tipo de bombilla consume menos energía?",
+      "Respuesta": "3"
+    }
+  ],
+  "Pregunta 7": [
+    {
+      "1": "Mantener el aire acondicionado encendido con puertas y ventanas abiertas",
+      "2": "Usar el aire acondicionado solo en habitaciones cerradas",
+      "3": "Encender el aire acondicionado en toda la casa",
+      "4": "Usar ventiladores junto con el aire acondicionado",
+      "Pregunta": "¿Qué práctica ayuda a reducir el uso de energía del aire acondicionado?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 8": [
+    {
+      "1": "Dejar el cargador enchufado aunque el teléfono no esté conectado",
+      "2": "Desenchufar el cargador cuando no se está utilizando",
+      "3": "Usar varios cargadores al mismo tiempo",
+      "4": "Cargar el teléfono toda la noche",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de cargadores de celular?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 9": [
+    {
+      "1": "Dejar el refrigerador abierto por mucho tiempo",
+      "2": "Mantener el refrigerador lleno y bien cerrado",
+      "3": "Abrir y cerrar el refrigerador varias veces al día",
+      "4": "Colocar comida caliente en el refrigerador",
+      "Pregunta": "¿Qué práctica es más eficiente al usar un refrigerador?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 10": [
+    {
+      "1": "Apagar luces y aparatos eléctricos cuando no se usan",
+      "2": "Dejar luces encendidas toda la noche",
+      "3": "Usar el aire acondicionado con puertas y ventanas abiertas",
+      "4": "Mantener el ventilador encendido todo el día",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el hogar?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 11": [
+    {
+      "1": "Dejar la computadora encendida cuando no la usas",
+      "2": "Apagar la computadora cuando terminas de usarla",
+      "3": "Dejar la computadora en modo de espera",
+      "4": "Mantener la computadora encendida toda la noche",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de una computadora?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 12": [
+    {
+      "1": "Dejar las luces encendidas en habitaciones vacías",
+      "2": "Apagar las luces al salir de la habitación",
+      "3": "Usar lámparas sin pantalla",
+      "4": "Dejar una luz encendida toda la noche",
+      "Pregunta": "¿Qué práctica ayuda a reducir el consumo de energía en la iluminación?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 13": [
+    {
+      "1": "Abrir la nevera muchas veces al día",
+      "2": "Mantener la puerta de la nevera bien cerrada",
+      "3": "Poner comida caliente en la nevera",
+      "4": "Dejar la nevera medio vacía",
+      "Pregunta": "¿Qué práctica es más eficiente para ahorrar energía en la nevera?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 14": [
+    {
+      "1": "Apagar la televisión cuando no la estás viendo",
+      "2": "Dejar la televisión encendida todo el día",
+      "3": "Ver televisión y usar el teléfono al mismo tiempo",
+      "4": "Mantener la televisión encendida mientras haces otra cosa",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del televisor?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 15": [
+    {
+      "1": "Dejar el ventilador encendido todo el día",
+      "2": "Usar el ventilador solo cuando es necesario",
+      "3": "Encender el ventilador en toda la casa",
+      "4": "Usar el ventilador junto con el aire acondicionado",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de ventiladores?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 16": [
+    {
+      "1": "Dejar el cargador conectado cuando el teléfono ya está cargado",
+      "2": "Desenchufar el cargador una vez que el teléfono esté cargado",
+      "3": "Cargar el teléfono toda la noche",
+      "4": "Usar varios cargadores para cargar más rápido",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de un cargador de celular?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 17": [
+    {
+      "1": "Usar el aire acondicionado todo el día",
+      "2": "Apagar el aire acondicionado cuando no es necesario",
+      "3": "Mantener el aire acondicionado encendido toda la noche",
+      "4": "Usar el aire acondicionado con puertas y ventanas abiertas",
+      "Pregunta": "¿Qué es lo más eficiente en el uso del aire acondicionado?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 18": [
+    {
+      "1": "Usar bombillas incandescentes",
+      "2": "Usar bombillas LED",
+      "3": "Dejar las luces encendidas todo el día",
+      "4": "Dejar las luces de la casa encendidas durante el día",
+      "Pregunta": "¿Qué tipo de bombilla es más eficiente en el uso de energía?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 19": [
+    {
+      "1": "Dejar el televisor encendido todo el día",
+      "2": "Apagar el televisor cuando no lo estás viendo",
+      "3": "Mantener el televisor encendido mientras usas la computadora",
+      "4": "Ver televisión mientras usas el teléfono",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del televisor?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 20": [
+    {
+      "1": "Usar electrodomésticos eficientes",
+      "2": "Usar electrodomésticos viejos",
+      "3": "Dejar los electrodomésticos encendidos todo el día",
+      "4": "Mantener los electrodomésticos en modo de espera",
+      "Pregunta": "¿Qué práctica ayuda a reducir el consumo de energía en el hogar?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 21": [
+    {
+      "1": "Mantener el aire acondicionado encendido mientras no estás en casa",
+      "2": "Apagar el aire acondicionado cuando sales de la habitación",
+      "3": "Dejar el aire acondicionado encendido toda la noche",
+      "4": "Usar el aire acondicionado solo en habitaciones cerradas",
+      "Pregunta": "¿Qué práctica es más eficiente en el uso del aire acondicionado?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 22": [
+    {
+      "1": "Dejar el cargador del teléfono enchufado todo el tiempo",
+      "2": "Desenchufar el cargador cuando no se usa",
+      "3": "Cargar el teléfono toda la noche",
+      "4": "Usar el cargador solo durante el día",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de un cargador de celular?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 23": [
+    {
+      "1": "Dejar las luces encendidas durante el día",
+      "2": "Apagar las luces cuando no se usan",
+      "3": "Usar bombillas incandescentes",
+      "4": "Dejar las luces de la casa encendidas toda la noche",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en la iluminación?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 24": [
+    {
+      "1": "Dejar el televisor encendido mientras no lo estás viendo",
+      "2": "Apagar el televisor cuando terminas de verlo",
+      "3": "Ver televisión mientras usas el teléfono",
+      "4": "Mantener el televisor encendido todo el día",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del televisor?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 25": [
+    {
+      "1": "Usar el aire acondicionado solo cuando hace mucho calor",
+      "2": "Mantener el aire acondicionado encendido todo el día",
+      "3": "Usar ventiladores en lugar de aire acondicionado cuando es posible",
+      "4": "Usar el aire acondicionado solo en habitaciones cerradas",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del aire acondicionado?",
+      "Respuesta": "3"
+    }
+  ],
+  "Pregunta 26": [
+    {
+      "1": "Usar bombillas incandescentes",
+      "2": "Usar bombillas LED",
+      "3": "Dejar las luces encendidas todo el día",
+      "4": "Usar lámparas sin pantalla",
+      "Pregunta": "¿Qué tipo de bombilla es más eficiente en el uso de energía?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 27": [
+    {
+      "1": "Apagar el aire acondicionado cuando sales de la habitación",
+      "2": "Dejar el aire acondicionado encendido todo el día",
+      "3": "Usar el aire acondicionado solo de noche",
+      "4": "Mantener el aire acondicionado encendido mientras no estás en casa",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del aire acondicionado?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 28": [
+    {
+      "1": "Usar bombillas incandescentes",
+      "2": "Usar bombillas LED",
+      "3": "Dejar las luces encendidas todo el día",
+      "4": "Dejar las luces de la casa encendidas durante el día",
+      "Pregunta": "¿Qué tipo de bombilla es más eficiente en el uso de energía?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 29": [
+    {
+      "1": "Apagar las luces al salir de la habitación",
+      "2": "Dejar las luces encendidas toda la noche",
+      "3": "Usar lámparas sin pantalla",
+      "4": "Dejar las luces encendidas en habitaciones vacías",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en la iluminación?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 30": [
+    {
+      "1": "Dejar el televisor encendido mientras no lo estás viendo",
+      "2": "Apagar el televisor cuando terminas de verlo",
+      "3": "Ver televisión mientras usas el teléfono",
+      "4": "Mantener el televisor encendido todo el día",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del televisor?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 31": [
+    {
+      "1": "Usar ventiladores en lugar de aire acondicionado cuando es posible",
+      "2": "Mantener el aire acondicionado encendido todo el día",
+      "3": "Usar el aire acondicionado solo cuando hace mucho calor",
+      "4": "Usar el aire acondicionado solo en habitaciones cerradas",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del aire acondicionado?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 32": [
+    {
+      "1": "Dejar el cargador del teléfono enchufado todo el tiempo",
+      "2": "Desenchufar el cargador cuando no se usa",
+      "3": "Cargar el teléfono toda la noche",
+      "4": "Usar el cargador solo durante el día",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de un cargador de celular?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 33": [
+    {
+      "1": "Dejar el ventilador encendido todo el día",
+      "2": "Usar el ventilador solo cuando es necesario",
+      "3": "Encender el ventilador en toda la casa",
+      "4": "Usar el ventilador junto con el aire acondicionado",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de ventiladores?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 34": [
+    {
+      "1": "Apagar luces y aparatos eléctricos cuando no se usan",
+      "2": "Dejar luces encendidas toda la noche",
+      "3": "Usar el aire acondicionado con puertas y ventanas abiertas",
+      "4": "Mantener el ventilador encendido todo el día",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el hogar?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 35": [
+    {
+      "1": "Dejar el cargador enchufado aunque el teléfono no esté conectado",
+      "2": "Desenchufar el cargador cuando no se está utilizando",
+      "3": "Usar varios cargadores al mismo tiempo",
+      "4": "Cargar el teléfono toda la noche",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de cargadores de celular?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 36": [
+    {
+      "1": "Usar el aire acondicionado solo en habitaciones cerradas",
+      "2": "Mantener el aire acondicionado encendido todo el día",
+      "3": "Apagar el aire acondicionado cuando sales de la habitación",
+      "4": "Dejar el aire acondicionado encendido toda la noche",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del aire acondicionado?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 37": [
+    {
+      "1": "Usar bombillas incandescentes",
+      "2": "Usar bombillas LED",
+      "3": "Dejar las luces encendidas todo el día",
+      "4": "Usar lámparas sin pantalla",
+      "Pregunta": "¿Qué tipo de bombilla es más eficiente en el uso de energía?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 38": [
+    {
+      "1": "Apagar la computadora cuando terminas de usarla",
+      "2": "Dejar la computadora en modo de espera",
+      "3": "Dejar la computadora encendida cuando no la usas",
+      "4": "Mantener la computadora encendida toda la noche",
+      "Pregunta": "¿Qué es lo más eficiente en el uso de una computadora?",
+      "Respuesta": "1"
+    }
+  ],
+  "Pregunta 39": [
+    {
+      "1": "Usar bombillas incandescentes",
+      "2": "Usar bombillas LED",
+      "3": "Dejar las luces encendidas todo el día",
+      "4": "Dejar las luces de la casa encendidas durante el día",
+      "Pregunta": "¿Qué tipo de bombilla es más eficiente en el uso de energía?",
+      "Respuesta": "2"
+    }
+  ],
+  "Pregunta 40": [
+    {
+      "1": "Dejar el televisor encendido todo el día",
+      "2": "Apagar el televisor cuando no lo estás viendo",
+      "3": "Mantener el televisor encendido mientras usas la computadora",
+      "4": "Ver televisión mientras usas el teléfono",
+      "Pregunta": "¿Qué práctica ayuda más a ahorrar energía en el uso del televisor?",
+      "Respuesta": "2"
+    }
+  ]
+}
